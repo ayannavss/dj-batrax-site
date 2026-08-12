@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# TODO SEO: substitua pela URL definitiva antes do deploy.
 Sitemap: https://dj-batrax-site.vercel.app/sitemap.xml
