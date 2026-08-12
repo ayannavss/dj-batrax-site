@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- TODO SEO: substitua pela URL definitiva antes do deploy. -->
   <url>
     <loc>https://dj-batrax-site.vercel.app/</loc>
     <changefreq>monthly</changefreq>
