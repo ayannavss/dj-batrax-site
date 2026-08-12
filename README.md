@@ -14,12 +14,13 @@ Canonical, Open Graph, Twitter Card, JSON-LD, robots e sitemap usam a URL públi
 
 ## Publicação
 
-Envie todo o conteúdo desta pasta para a raiz do repositório. Na Vercel, importe o repositório sem framework e sem comando de build.
+O repositório está conectado à Vercel. Novos commits na branch `main` geram deploy automático em produção.
 
 ## Arquivos principais
 
 - `index.html`: página completa e responsiva
 - `assets/images/dj-batrax-hero.webp`: imagem crítica do hero
+- `assets/images/dj-batrax-hero-640.webp` e `dj-batrax-hero-960.webp`: versões responsivas
 - `assets/images/og-image.webp`: compartilhamento social em 1200 × 630 px
 - `assets/fonts/`: fontes locais em WOFF2
 - `assets/icons/` e `favicon.ico`: favicons
